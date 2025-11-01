@@ -1,0 +1,11 @@
+{
+  "orders":[
+    {
+      "eventId": "11111111-aaaa-4a11-9a11-111111111111",
+      "eventType": "ORDER_CREATED",
+      "orderId": "A-54891",
+      "userEmail": "alice@example.com",
+      "timestamp": "2025-11-01T10:00:00Z"
+    }
+  ]
+}
